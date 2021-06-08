@@ -24,4 +24,9 @@ useEffect(렌더링이 일어났을 때(mount와 unmount)
 
 비동기
 ------
-axios를 사용하여 GET해야할 Promise들을 async함수로 만들어 await이 되었을 때 처리하게 만들었음.도
+axios를 사용하여 GET해야할 Promise들을 async함수로 만들어 await이 되었을 때 처리하게 만들었음.
+
+
+도움
+-------
+리액트를 다루는 기술 
